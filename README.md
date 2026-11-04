@@ -85,7 +85,7 @@ The dashboard enables users to:
 
 ## 📷 Dashboard Preview
 
-<img width="1150" height="646" alt="image" src="https://github.com/user-attachments/assets/a86e49c8-5a9c-425d-b8d2-d32de8f7f42d" />
+<img width="573" height="320" alt="image" src="https://github.com/user-attachments/assets/789cc525-0b63-40da-9369-9c595ca867af" />
 
 
 ## 🚀 Conclusion
